@@ -1,4 +1,4 @@
-## Netflix Analysis usind Python
+## Netflix Analysis using Python
 
 ### Project Description
 
